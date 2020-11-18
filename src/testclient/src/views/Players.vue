@@ -15,9 +15,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss">
-.players {
-  // TODO:
-}
-</style>
